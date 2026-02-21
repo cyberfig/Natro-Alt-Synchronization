@@ -890,7 +890,7 @@ nm_command(command)
 			'
 			{
 				"embeds": [{
-					"title": "The only commands you get",
+					"title": "Commands list",
 					"color": "5066239",
 					"fields": [{
 						"name": "' commandPrefix 'help",
